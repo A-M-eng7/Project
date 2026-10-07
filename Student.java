@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Här skriver vi kommentar 
 public class Student {
     private String firstName;
     private String lastName;
