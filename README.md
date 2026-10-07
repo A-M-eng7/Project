@@ -1,7 +1,2 @@
 # Project
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
+Hej, detta handlar om ett projekt där man samlar in data från studenter ! 
